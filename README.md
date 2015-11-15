@@ -4,9 +4,14 @@
 
 [![Build Status](https://travis-ci.org/mplan1997/FavoriteMusicWebDemo.svg)](https://travis-ci.org/mplan1997/FavoriteMusicWebDemo)
 # README #
+<<<<<<< HEAD
+=======
 
 Favorite Music은 스트리밍 음악 콘텐츠 Web, App입니다.
+>>>>>>> branch 'master' of https://github.com/mplan1997/FavoriteMusicWeb.git
 
+Favorite Music은 스트리밍 음악 콘텐츠 Web, App입니다.
+[![Build Status](https://travis-ci.org/mplan1997/FavoriteMusicWebDemo.svg)](https://travis-ci.org/mplan1997/FavoriteMusicWebDemo)
 ### System ###
 * 윈도우 8.1, 윈도우 서버 2012 R2
 * Maria DB
