@@ -1,5 +1,7 @@
 #Favorite Music 
 
+[![Join the chat at https://gitter.im/mplan1997/FavoriteMusicWeb](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mplan1997/FavoriteMusicWeb?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 해당 관련 소스는 정식 버전 입니다.
 
 [![Build Status](https://travis-ci.org/mplan1997/FavoriteMusicWebDemo.svg)](https://travis-ci.org/mplan1997/FavoriteMusicWebDemo)
